@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Solution Page](https://www.frontendmentor.io/solutions/responsive-easybank-landing-page-1pYVlnqui1)
+-   Live Site URL: [Live Demo](https://issam-hub.github.io/easybank-landing-page/)
 
 ## My process
 
@@ -54,5 +54,5 @@ Users should be able to:
 
 ## Author
 
--   Website - [Add your name here](https://www.your-site.com)
--   Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+-   Instagram - [@issam_4real](https://www.instagram.com/issam_4real/)
+-   Frontend Mentor - [@issam-hub](https://www.frontendmentor.io/profile/issam-hub)
