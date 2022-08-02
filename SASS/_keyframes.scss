@@ -1,0 +1,26 @@
+@keyframes vanish {
+    50% {
+        transform: translateX(-10px);
+    }
+    70% {
+        transform: translateX(50%);
+    }
+    80% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+        display: none;
+    }
+}
+
+@keyframes flip1 {
+    100% {
+        transform: translateY(8px) rotate(-42deg);
+    }
+}
+@keyframes flip2 {
+    100% {
+        transform: translateY(-12px) rotate(42deg);
+    }
+}

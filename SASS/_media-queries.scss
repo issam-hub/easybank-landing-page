@@ -1,0 +1,35 @@
+@use "./mixins" as *;
+
+.container {
+    margin-inline: auto;
+}
+/* Start Making The Whole Thing Responsive */
+@include breakpoints(extra-large) {
+    .container {
+        width: 1250px;
+    }
+}
+@include breakpoints(large) {
+    .container {
+        width: 1200px;
+    }
+}
+@include breakpoints(medium) {
+    .container {
+        width: 992px;
+    }
+}
+@include breakpoints(small) {
+    .container {
+        width: 768px;
+    }
+}
+@include breakpoints(tablet, mobile) {
+    .container {
+        width: 100%;
+        padding-inline: 20px;
+    }
+}
+// @include breakpoints() {
+
+// }
